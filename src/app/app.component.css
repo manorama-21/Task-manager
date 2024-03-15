@@ -1,0 +1,31 @@
+h1{
+  text-align: center;
+  text-decoration-line: underline;
+  font-size: 60px;
+}
+
+.container{
+  background-color: rgb(238, 181, 96);
+  text-align: center;
+  width:20%;
+  position: absolute;
+  left: 39%;
+  padding: 15px 15px;
+  border: 4px solid rgb(139, 6, 6);
+}
+input{
+  text-align: center;
+  font-size: 25px;
+}
+button{
+  font-size: 20px;
+  background-color: rgb(211, 224, 93);
+}
+button:hover{
+  background-color: rgb(236, 101, 60);
+}
+li{
+  background-color: rgb(216, 138, 138);
+  font-size: 20px;
+  width: 310px;
+}
